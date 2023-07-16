@@ -281,7 +281,7 @@ td:hover{
 
     table td, table th {
         padding: 10px;
-        font-size: 8px;
+        font-size: 10px;
         text-align: center; 
       }
       
@@ -290,7 +290,7 @@ td:hover{
         padding-bottom: 5px;
         text-align: center;   
         color: black;
-         font-size: 8px;
+         font-size: 10px;
       }
       
      
@@ -312,7 +312,7 @@ td:hover{
         padding: 10px;
         margin-top: 10px;
         border-radius: 10px;
-        width: 95vw;
+        width: 70vw;
         margin-bottom: 15px;
         outline: none;
         box-sizing: 5px solid red;
