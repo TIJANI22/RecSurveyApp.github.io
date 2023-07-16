@@ -274,6 +274,7 @@ td:hover{
         height: 80vh;
         width: 80%;
         box-shadow: 1px 12px 12px -6px rgba (0,0,0,0.5);
+        padding: 10px;
         margin-left: 20px;
         border-radius: 5px;
     }
