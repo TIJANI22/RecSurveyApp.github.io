@@ -272,7 +272,7 @@ td:hover{
 
       table{
         height: 80vh;
-        width: 60%;
+        width: 50%;
         box-shadow: 1px 12px 12px -6px rgba (0,0,0,0.5);
         margin-left: 30px;
         border-radius: 5px;
@@ -281,7 +281,7 @@ td:hover{
 
     table td, table th {
         padding: 10px;
-        font-size: 15px;
+        font-size: 8px;
         text-align: center; 
       }
       
@@ -290,7 +290,7 @@ td:hover{
         padding-bottom: 5px;
         text-align: center;   
         color: black;
-         font-size: 15px;
+         font-size: 8px;
       }
       
      
@@ -312,7 +312,7 @@ td:hover{
         padding: 10px;
         margin-top: 10px;
         border-radius: 10px;
-        width: 85vw;
+        width: 95vw;
         margin-bottom: 15px;
         outline: none;
         box-sizing: 5px solid red;
@@ -320,7 +320,7 @@ td:hover{
     
 
 .footer{
-    font-size: 12px;
+    font-size: 8px;
     width: 90%;}
 }
     
